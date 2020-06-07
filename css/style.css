@@ -77,8 +77,8 @@ header h1 a span {
 .navbar-light .navbar-nav .active>.nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-    color: #9dcb00;
-    border-bottom: 1px solid #9dcb00;
+    color: #f33a3a;
+    border-bottom: 1px solid #f33a3a;
     background: #fff;
 }
 
@@ -449,7 +449,7 @@ h3.w3ls-title {
     margin: 1em 0;
 }
 span.fa.fa-check.mr-2 {
-    color: #9dcb00;
+    color: #f33a3a;
 }
 .card-header {
     padding: 0.4rem 1.25rem;
@@ -472,7 +472,7 @@ button.btn.btn-link:hover{
     font-size: 3.5em;
     font-weight: 500;
     letter-spacing: 2px;
-    color: #9dcb00;
+    color: #f33a3a;
     margin: 0 0 0.2em 0;
 }
 .w3layouts_stats_left h3 {
@@ -612,7 +612,7 @@ arrow-container,
 .arrow-2 {
     width: 60px;
     height: 60px;
-    background:#9dcb00;
+    background:#f33a3a;
     border-radius: 50%;
     position: absolute;
     top: 20px;
@@ -660,7 +660,7 @@ arrow-container,
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;
     padding: 0;
-   border:2px solid #9dcb00;
+   border:2px solid #f33a3a;
 }
 
 .pricing-grid3 {
@@ -693,18 +693,18 @@ arrow-container,
 .price-value,
 .price-value.two,
 .price-value.three {
-    background: #9dcb00;
+    background: #f33a3a;
     padding: 16px 0;
-    border-bottom: 2px solid #9dcb00;
+    border-bottom: 2px solid #f33a3a;
 }
 .price-value.two {
-    background: #9dcb00;
-    border-bottom: 2px solid #9dcb00;
+    background: #f33a3a;
+    border-bottom: 2px solid #f33a3a;
 }
 
 .price-value.three {
-   background: #9dcb00;
-    border-bottom: 2px solid #9dcb00;
+   background: #f33a3a;
+    border-bottom: 2px solid #f33a3a;
 }
 
 .price-value ul,
@@ -778,7 +778,7 @@ arrow-container,
     padding: 10px 30px;
     text-decoration: none;
 	background: transparent;
-    border: 2px solid #9dcb00;
+    border: 2px solid #f33a3a;
     border-radius: 30px;
     color: #666;
     text-transform: uppercase;
@@ -790,9 +790,9 @@ arrow-container,
 .cart1 a:hover,
 .cart2 a:hover,
 .cart3 a:hover {
-        background: #9dcb00 none repeat scroll 0 0;
+        background: #f33a3a none repeat scroll 0 0;
     color: #fff;
-    border-color: #9dcb00;
+    border-color: #f33a3a;
 }
 
 /*----*/
@@ -809,7 +809,7 @@ arrow-container,
     border-radius: 50%;
 }
 .tex-t h4 {
-    color: #9dcb00;
+    color: #f33a3a;
     font-size: 22px;
 }
 .agile_testimonials_grid p {
@@ -825,7 +825,7 @@ arrow-container,
     float: left;
     width: 94%;
     padding: 1em 4em;
-    border: 3px solid #9dcb00;
+    border: 3px solid #f33a3a;
     position: relative;
 }
 .test-tooltip:before {
@@ -835,7 +835,7 @@ arrow-container,
 	top: 38%;
 	border-left: 10px solid transparent;
 	border-right: 10px solid transparent;
-	border-bottom: 14px solid#9dcb00;
+	border-bottom: 14px solid#f33a3a;
 	transform: rotate(-90deg);
 	-webkit-transform: rotate(-90deg);
 	-moz-transform: rotate(-90deg);
@@ -849,7 +849,7 @@ arrow-container,
     bottom: -9%;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
-    border-bottom: 15px solid#9dcb00;
+    border-bottom: 15px solid#f33a3a;
     transform: rotate(90deg);
     -webkit-transform: rotate(178deg);
     -moz-transform: rotate(90deg);
@@ -920,7 +920,7 @@ arrow-container,
     position: absolute;
     cursor: pointer;
     z-index: 100;
-    background: url(../images/right1.png) no-repeat 8px 13px #9dcb00;
+    background: url(../images/right1.png) no-repeat 8px 13px #f33a3a;
     top: 18% !important;
 }
 .nbs-flexisel-nav-left {
@@ -928,7 +928,7 @@ arrow-container,
 }
 .nbs-flexisel-nav-right {
 	right:3%;
-    background:url(../images/left1.png) no-repeat 8px 13px #9dcb00;
+    background:url(../images/left1.png) no-repeat 8px 13px #f33a3a;
 }
 /*--//flexisel--*/
 .agile_testimonials_grid {
@@ -981,7 +981,7 @@ h5.card-title {
     font-size: 20px;
     letter-spacing: 2px;
     margin-bottom: 1em;
-    color: #9dcb00;
+    color: #f33a3a;
 	font-weight: 600;
 }
 p.card-text {
@@ -1015,7 +1015,7 @@ button:hover {
 /*-- //card --*/
 h4.modal-title {
     font-size: 24px;
-    color:#9dcb00;
+    color:#f33a3a;
     font-weight: 600;
     letter-spacing: 2px;
 }
@@ -1072,7 +1072,7 @@ footer ul li a:hover {
 }
 
 footer ul li.hd {
-	color: #9dcb00 ;
+	color: #f33a3a ;
 }
 
 .newsletter .email {
@@ -1113,7 +1113,7 @@ button.btn1 {
 	padding: 12px 0;
 	text-align: center;
 	text-decoration: none;
-	background: #9dcb00 ;
+	background: #f33a3a ;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
 	-o-transition: 0.5s all;
@@ -1139,7 +1139,7 @@ a.facebook {
 }
 
 a.facebook:hover {
-	color: #9dcb00 ;
+	color: #f33a3a ;
 }
 
 .copyrighttop {
@@ -1164,7 +1164,7 @@ a.facebook:hover {
     margin-bottom: 0;
 }
 .copyrightbottom a {
-	color: #9dcb00 ;
+	color: #f33a3a ;
 	text-decoration: none;
 }
 
@@ -1198,7 +1198,7 @@ a.facebook:hover {
 .w3layouts_getin a {
     font-size: 1em;
     color: #fff;
-    background:#9dcb00;
+    background:#f33a3a;
     padding: 0.7em 2em;
     letter-spacing: 2px;
     display: inline-block;
@@ -1209,7 +1209,7 @@ a.facebook:hover {
 }
 /*-- welcome --*/
 .welcome-left h3 {
-    color:#9dcb00;
+    color:#f33a3a;
     font-size: 36px;
     letter-spacing: 1px;
 }
@@ -1243,7 +1243,7 @@ a.facebook:hover {
     transition: .5s all;
 }
 .team h4 {
-    color: #9dcb00;
+    color: #f33a3a;
     font-size: 22px;
     letter-spacing: 2px;
     font-weight: 600;
@@ -1386,7 +1386,7 @@ a.facebook:hover {
 }
 .about-info-grids i {
     font-size: 36px;
-    color: #9dcb00;
+    color: #f33a3a;
 }
 /*-- //what we do --*/
 .w3_agileits_header.two {
@@ -1490,7 +1490,7 @@ li.list-group-item1 {
 }
 .grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
     margin-bottom: 1em;
-    color: #9dcb00;
+    color: #f33a3a;
     font-weight: 700;
     font-size: 30px;
     letter-spacing: 2px;
@@ -1697,7 +1697,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 	width: 80px;
     height: 80px;
     text-align: center;
-    background:#9dcb00;
+    background:#f33a3a;
     margin: 0 auto;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -1772,7 +1772,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 
 .contact_grid_right input[type="submit"],
 .contact_grid_right input[type="reset"]:hover {
-    background-color: #9dcb00;
+    background-color: #f33a3a;
 }
 
 .contact-left h4 {
@@ -1798,7 +1798,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 
 .contact_grid_right h6, .contact-left h6 {
     font-size: 1.2em;
-    color: #9dcb00;
+    color: #f33a3a;
     margin-bottom: 1.5em;
     letter-spacing: 1px;
     font-weight: 600;
@@ -1839,7 +1839,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 @media screen and (max-width: 991px) {
     .navbar-toggler {
         padding: 0.2rem 0.5rem;
-        background-color: #9dcb00;
+        background-color: #f33a3a;
         border: none;
     }
     .slider-info {
